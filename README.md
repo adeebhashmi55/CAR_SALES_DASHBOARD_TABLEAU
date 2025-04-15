@@ -6,6 +6,6 @@
 
 ## Dashboard Preview
 
-<img src=""/>
+<img src="Car sales dashboard.png"/>
 
 
