@@ -8,4 +8,38 @@
 
 <img src="Car sales dashboard.png"/>
 
+## Filters
+
+- Region
+
+-Car Model
+
+- Time Period (Month/Year)
+
+- Category or Segment (e.g., SUV, Sedan)
+
+## Key KPI Metrics
+
+- Total Revenue
+
+- Total Profit
+
+- Total Units Sold
+
+- Average Profit per Unit
+
+- Monthly Growth %
+
+## Dashboard Components
+
+- KPI Tiles: Total Sales, Total Profit, Total Units Sold
+
+- Bar Charts: Sales by Car Model, Profit by Region
+
+- Line Charts: Monthly Sales Trends
+
+- Pie Charts: Sales Distribution by Region or Category
+
+- Maps (if applicable): Regional Sales Performance
+
 
