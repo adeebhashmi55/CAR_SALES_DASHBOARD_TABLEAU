@@ -6,6 +6,9 @@
 
 ## Dashboard Preview
 
+View the live dashboard on Tableau Public:
+https://public.tableau.com/app/profile/adeeb.hashmi/viz/CarSalesDashboardTableau_17447123141140/Dashboard1?publish=yes
+
 <img src="Car sales dashboard.png"/>
 
 ## Filters 
