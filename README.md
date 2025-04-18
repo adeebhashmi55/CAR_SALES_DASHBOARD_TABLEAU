@@ -12,7 +12,7 @@
 
 - Region
 
--Car Model
+- Car Model
 
 - Time Period (Month/Year)
 
