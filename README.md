@@ -8,7 +8,7 @@
 
 <img src="Car sales dashboard.png"/>
 
-## Filters
+## Filters 
 
 - Region
 
@@ -41,5 +41,19 @@
 - Pie Charts: Sales Distribution by Region or Category
 
 - Maps (if applicable): Regional Sales Performance
+
+## Story Sections
+
+- 📈 1. Year-Over-Year Growth in Sales and Volume
+
+<img src=""/>
+
+🚗 2. SUVs Lead the Market in Revenue
+
+<img src=""/>
+
+🌍 3. Regional Sales Performance Shows Opportunities
+
+<img src=""/>
 
 
