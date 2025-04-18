@@ -44,16 +44,28 @@
 
 ## Story Sections
 
-- 📈 1. Year-Over-Year Growth in Sales and Volume
+## 📈 1. Year-Over-Year Growth in Sales and Volume
 
 <img src=""/>
 
-🚗 2. SUVs Lead the Market in Revenue
+- Total Sales: $371.19M with 23.59% YoY growth
+
+- Cars Sold: 13.26K with 24.57% YoY growth Despite a slight dip in average price (-0.79%), the increased unit sales have driven overall revenue higher. This indicates strong demand recovery or a successful sales strategy post-market slowdown.
+
+## 🚗 2. SUVs Lead the Market in Revenue
 
 <img src=""/>
 
-🌍 3. Regional Sales Performance Shows Opportunities
+- SUVs generated the highest revenue: $99.89M, followed by Hatchbacks and Sedans.
+
+- This trend showcases a customer shift towards larger vehicles, likely influenced by utility preferences or lifestyle changes. This insight could guide inventory and marketing focus towards high-demand body styles.
+
+## 🌍 3. Regional Sales Performance Shows Opportunities
 
 <img src=""/>
+
+- Austin: $34.00M
+
+- Janesville: $30.01M Manual vs. Auto sales comparison also adds depth, helping identify areas where automatics dominate, providing insights for targeted marketing and stock planning
 
 
