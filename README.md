@@ -46,7 +46,7 @@
 
 ## 📈 1. Year-Over-Year Growth in Sales and Volume
 
-<img src=""/>
+<img src="Dashboars Images/Year-Over-Year Growth in Sales and Volume.png"/>
 
 - Total Sales: $371.19M with 23.59% YoY growth
 
@@ -54,7 +54,7 @@
 
 ## 🚗 2. SUVs Lead the Market in Revenue
 
-<img src=""/>
+<img src="Dashboars Images/SUVs Lead the Market in Revenue.png"/>
 
 - SUVs generated the highest revenue: $99.89M, followed by Hatchbacks and Sedans.
 
@@ -62,7 +62,7 @@
 
 ## 🌍 3. Regional Sales Performance Shows Opportunities
 
-<img src=""/>
+<img src="Dashboars Images/Regional Sales Performance Shows Opportunities.png"/>
 
 - Austin: $34.00M
 
